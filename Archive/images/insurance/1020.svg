@@ -9,7 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128" height="64" viewBox="0 0 128 64"
+   width="28.131598mm"
+   height="28.131594mm"
+   viewBox="0 0 28.131598 28.131594"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -62,7 +64,8 @@
        id="g76"
        transform="matrix(0.09924117,0,0,0.09924117,84.585989,14.571111)">
       <rect
-        width="128" height="64"
+         height="283.46448"
+         width="283.46448"
          y="0.0024999999"
          x="0.0024999999"
          class="cls-1"
