@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" fill="none">
-  <ellipse fill="#e9e954" cx="12" cy="12" rx="12" ry="12"/>
-  <ellipse stroke="#1b1c4d" stroke-width="2" cx="12" cy="12" rx="11" ry="11"/>
-  <path fill="#1b1c4d" transform="translate(-6.4285, 4.3039)scale(0.4825, 0.4825)" d="M39.6047,17.952L39.6047,10.368L31.4705,17.952L39.6047,17.952zM48.4943,22.1759L44.4272,22.1759L44.4272,27.36L39.6047,27.36L39.6047,22.1759L25.5732,22.1759L25.5732,18.688L40.331,4.5439L44.4272,4.5439L44.4272,17.952L48.4943,17.952L48.4943,22.1759z"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12" cy="12" r="12" fill="#E9E954"/>
+<circle cx="12" cy="12" r="11" stroke="#1B1C4D" stroke-width="2"/>
+<path fill="#1B1C4D" d="M13.3664,12.965L13.3664,9.306L9.0436,12.965L13.3664,12.965M18.0907,15.0028L15.9292,15.0028L15.9292,17.504L13.3664,17.504L13.3664,15.0028L5.9095,15.0028L5.9095,13.3201L13.7524,6.4961L15.9292,6.4961L15.9292,12.965L18.0907,12.965L18.0907,15.0028z"/>
 </svg>
